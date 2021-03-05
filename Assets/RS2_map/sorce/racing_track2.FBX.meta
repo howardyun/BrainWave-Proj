@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: cfbbad38a28012a46b642248eed65ed6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AR_A_01_Beam_1000M
+    100002: AR_A_01_Beam_1000M 1
+    100004: AR_A_01_Cone
+    100006: AR_A_01_Cone_001
+    100008: AR_A_01_Cone_002
+    100010: AR_A_01_Cone_003
+    100012: AR_A_01_Cone_004
+    100014: AR_A_01_Cone_005
+    100016: AR_A_01_Cone_006
+    100018: AR_A_01_Cone_007
+    100020: AR_A_01_Cone_008
+    100022: AR_A_01_Cone_009
+    100024: AR_A_01_Start_Lamps
+    100026: AR_A_01_Start_Lamps 1
+    100028: AR_A_04_Building_Type_02_04
+    100030: AR_A_04_Building_Type_02_04 1
+    100032: Checkpoint_00
+    100034: Checkpoint_01
+    100036: Checkpoint_02
+    100038: Checkpoints
+    100040: Collider_Wall_Exterior
+    100042: Collider_Wall_Exterior 1
+    100044: Collider_Wall_Interior
+    100046: Collider_Wall_Interior 1
+    100048: Fence_Exterior
+    100050: Fence_Exterior 1
+    100052: Fence_Interior
+    100054: Fence_Interior 1
+    100056: Group AR_A_01_Cone
+    100058: //RootNode
+    100060: Road_LowPolygon
+    100062: StartLine
+    100064: SUN_LIGHTMAP
+    100066: TestCourse
+    100068: TestCourse 1
+    100070: TestCourseParaboloid
+    400000: AR_A_01_Beam_1000M
+    400002: AR_A_01_Beam_1000M 1
+    400004: AR_A_01_Cone
+    400006: AR_A_01_Cone_001
+    400008: AR_A_01_Cone_002
+    400010: AR_A_01_Cone_003
+    400012: AR_A_01_Cone_004
+    400014: AR_A_01_Cone_005
+    400016: AR_A_01_Cone_006
+    400018: AR_A_01_Cone_007
+    400020: AR_A_01_Cone_008
+    400022: AR_A_01_Cone_009
+    400024: AR_A_01_Start_Lamps
+    400026: AR_A_01_Start_Lamps 1
+    400028: AR_A_04_Building_Type_02_04
+    400030: AR_A_04_Building_Type_02_04 1
+    400032: Checkpoint_00
+    400034: Checkpoint_01
+    400036: Checkpoint_02
+    400038: Checkpoints
+    400040: Collider_Wall_Exterior
+    400042: Collider_Wall_Exterior 1
+    400044: Collider_Wall_Interior
+    400046: Collider_Wall_Interior 1
+    400048: Fence_Exterior
+    400050: Fence_Exterior 1
+    400052: Fence_Interior
+    400054: Fence_Interior 1
+    400056: Group AR_A_01_Cone
+    400058: //RootNode
+    400060: Road_LowPolygon
+    400062: StartLine
+    400064: SUN_LIGHTMAP
+    400066: TestCourse
+    400068: TestCourse 1
+    400070: TestCourseParaboloid
+    2100000: ar_asphalt_03
+    2100002: ar_racetrack_atlas_01
+    2100004: walls2
+    2100006: walls
+    2100008: ar_racetrack_atlas_04
+    2100010: ar_racetrack_atlas_06
+    2100012: startGrid
+    2300000: AR_A_01_Beam_1000M
+    2300002: AR_A_01_Beam_1000M 1
+    2300004: AR_A_01_Cone
+    2300006: AR_A_01_Cone_001
+    2300008: AR_A_01_Cone_002
+    2300010: AR_A_01_Cone_003
+    2300012: AR_A_01_Cone_004
+    2300014: AR_A_01_Cone_005
+    2300016: AR_A_01_Cone_006
+    2300018: AR_A_01_Cone_007
+    2300020: AR_A_01_Cone_008
+    2300022: AR_A_01_Cone_009
+    2300024: AR_A_01_Start_Lamps
+    2300026: AR_A_01_Start_Lamps 1
+    2300028: AR_A_04_Building_Type_02_04
+    2300030: AR_A_04_Building_Type_02_04 1
+    2300032: Collider_Wall_Exterior
+    2300034: Collider_Wall_Exterior 1
+    2300036: Collider_Wall_Interior
+    2300038: Collider_Wall_Interior 1
+    2300040: Fence_Exterior
+    2300042: Fence_Exterior 1
+    2300044: Fence_Interior
+    2300046: Fence_Interior 1
+    2300048: Road_LowPolygon
+    2300050: StartLine
+    3300000: AR_A_01_Beam_1000M
+    3300002: AR_A_01_Beam_1000M 1
+    3300004: AR_A_01_Cone
+    3300006: AR_A_01_Cone_001
+    3300008: AR_A_01_Cone_002
+    3300010: AR_A_01_Cone_003
+    3300012: AR_A_01_Cone_004
+    3300014: AR_A_01_Cone_005
+    3300016: AR_A_01_Cone_006
+    3300018: AR_A_01_Cone_007
+    3300020: AR_A_01_Cone_008
+    3300022: AR_A_01_Cone_009
+    3300024: AR_A_01_Start_Lamps
+    3300026: AR_A_01_Start_Lamps 1
+    3300028: AR_A_04_Building_Type_02_04
+    3300030: AR_A_04_Building_Type_02_04 1
+    3300032: Collider_Wall_Exterior
+    3300034: Collider_Wall_Exterior 1
+    3300036: Collider_Wall_Interior
+    3300038: Collider_Wall_Interior 1
+    3300040: Fence_Exterior
+    3300042: Fence_Exterior 1
+    3300044: Fence_Interior
+    3300046: Fence_Interior 1
+    3300048: Road_LowPolygon
+    3300050: StartLine
+    4300000: Road_LowPolygon
+    4300002: AR_A_01_Cone_001
+    4300004: AR_A_01_Cone_007
+    4300006: AR_A_01_Cone_004
+    4300008: AR_A_01_Cone_009
+    4300010: AR_A_01_Cone
+    4300012: AR_A_01_Cone_002
+    4300014: AR_A_01_Cone_005
+    4300016: AR_A_01_Cone_003
+    4300018: AR_A_01_Cone_008
+    4300020: AR_A_01_Cone_006
+    4300022: Fence_Interior
+    4300024: Collider_Wall_Exterior
+    4300026: AR_A_04_Building_Type_02_04
+    4300028: Collider_Wall_Interior
+    4300030: Fence_Exterior
+    4300032: AR_A_01_Beam_1000M
+    4300034: AR_A_01_Start_Lamps
+    4300036: StartLine
+    4300038: AR_A_04_Building_Type_02_04
+    4300040: Collider_Wall_Interior
+    4300042: Collider_Wall_Exterior
+    4300044: Fence_Interior
+    4300046: AR_A_01_Beam_1000M
+    4300048: AR_A_01_Start_Lamps
+    4300050: Fence_Exterior
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5e343d6961a87d24b9eb782db4374fa0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BUGATTI VEYRON
+    100002: //RootNode
+    100004: SLY_STARTLIGHT
+    100006: SLY_STARTLIGHT_ALPHA
+    100008: SLY_TRACK01
+    400000: BUGATTI VEYRON
+    400002: //RootNode
+    400004: SLY_STARTLIGHT
+    400006: SLY_STARTLIGHT_ALPHA
+    400008: SLY_TRACK01
+    2100000: SLY_MISC
+    2100002: SLY_BUILDING01
+    2100004: SLY_TARMAC
+    2100006: 'Material #54'
+    2100008: Interieur Metal
+    2100010: Pneus Ar 2
+    2100012: Pneus
+    2100014: Pneus Ar 1
+    2100016: Pneus Av 1
+    2100018: Pneus Av 2
+    2100020: "Int\xE9rieur sol"
+    2100022: "Int\xE9rieur Si\xE9ges"
+    2100024: 'Material #61'
+    2100026: 'Material #53'
+    2100028: carroserie noir
+    2100030: Essuie-glace
+    2100032: 'Material #59'
+    2100034: vitre noir
+    2100036: vitres
+    2100038: 'Material #58'
+    2100040: Carrosserie bleu
+    2100042: 'Material #60'
+    2100044: BUGATTI
+    2100046: "Int\xE9rieur"
+    2100048: 'Material #55'
+    2100050: "Int\xE9rieur noir"
+    2100052: "Int\xE9rieur compteur A"
+    2100054: "Int\xE9rieur compteur B"
+    2100056: "Int\xE9rieur compteur"
+    2100058: Plastique rouge
+    2100060: Grilles Moteur
+    2100062: Parties noir
+    2100064: Moteur
+    2100066: 'Material #56'
+    2100068: Interieur Metal console
+    2100070: Plastique noir
+    2100072: Grilles
+    2100074: "Grilles cot\xE9s"
+    2100076: "Grilles cot\xE9s arri\xE9re"
+    2100078: Dessous
+    2100080: Metal_Chrome
+    2100082: Feux retro
+    2100084: Joints de vitres
+    2100086: Moteur metal
+    2100088: phare blanc
+    2100090: 'Material #57'
+    2100092: GlassRed
+    2100094: vitres phare
+    2100096: Glass orange
+    2100098: Jantes
+    2100100: Jantes noir
+    2100102: Jantes EB
+    2100104: disque frein
+    2100106: Readme
+    2300000: BUGATTI VEYRON
+    2300002: SLY_STARTLIGHT
+    2300004: SLY_STARTLIGHT_ALPHA
+    2300006: SLY_TRACK01
+    3300000: BUGATTI VEYRON
+    3300002: SLY_STARTLIGHT
+    3300004: SLY_STARTLIGHT_ALPHA
+    3300006: SLY_TRACK01
+    4300000: SLY_STARTLIGHT
+    4300002: SLY_STARTLIGHT_ALPHA
+    4300004: SLY_TRACK01
+    4300006: BUGATTI VEYRON
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

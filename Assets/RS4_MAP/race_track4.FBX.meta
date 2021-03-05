@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 836e025299e3da645ab1fab0f19bb98b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AR_A_01_Advert_Beam
+    100002: AR_A_01_Advert_Beam 1
+    100004: AR_A_01_Advert_Beam_Small
+    100006: AR_A_01_Advert_Beam_Small 1
+    100008: AR_A_01_Advert_Beam_Small_001
+    100010: AR_A_01_Advert_Beam_Small_001 1
+    100012: AR_A_01_Advert_Beam_Small_002
+    100014: AR_A_01_Advert_Beam_Small_002 1
+    100016: AR_A_01_Advert_Beam_Small_003
+    100018: AR_A_01_Advert_Beam_Small_003 1
+    100020: AR_A_01_Advert_Beam_Small_004
+    100022: AR_A_01_Advert_Beam_Small_004 1
+    100024: AR_A_01_Collider_Wall_Advert
+    100026: AR_A_01_Collider_Wall_Advert 1
+    100028: AR_A_01_Collider_Wall_Advert_001
+    100030: AR_A_01_Collider_Wall_Advert_001 1
+    100032: AR_A_01_Cone
+    100034: AR_A_01_Cone 1
+    100036: AR_A_01_GiantTire
+    100038: AR_A_01_GiantTire 1
+    100040: AR_A_01_Misc_Floodlight
+    100042: AR_A_01_Misc_Floodlight 1
+    100044: AR_A_01_Misc_Floodlight_001
+    100046: AR_A_01_Misc_Floodlight_002
+    100048: AR_A_01_Misc_Floodlight_003
+    100050: AR_A_01_Misc_Floodlight_004
+    100052: AR_A_01_Misc_Floodlight_005
+    100054: AR_A_01_Misc_Tower
+    100056: AR_A_01_Panel_Advert_Eif
+    100058: AR_A_01_Panel_Advert_Eif 1
+    100060: AR_A_01_Panel_Advert_Eif_001
+    100062: AR_A_01_Panel_Advert_Eif_001 1
+    100064: AR_A_01_Panel_Advert_Eif_002
+    100066: AR_A_01_Panel_Advert_Eif_002 1
+    100068: AR_A_01_Panel_Advert_Eneos
+    100070: AR_A_01_Panel_Advert_Eneos 1
+    100072: AR_A_01_Panel_Advert_Eneos_001
+    100074: AR_A_01_Panel_Advert_Eneos_001 1
+    100076: AR_A_01_Panel_Advert_Eneos_002
+    100078: AR_A_01_Panel_Advert_Eneos_002 1
+    100080: AR_A_01_Start_Lamps
+    100082: AR_A_01_Start_Lamps 1
+    100084: AR_A_02_TireWall
+    100086: AR_A_02_TireWall 1
+    100088: AR_A_02_TireWall_001
+    100090: AR_A_02_TireWall_001 1
+    100092: AR_A_03_Building
+    100094: AR_A_03_Building 1
+    100096: AR_A_03_Building_02
+    100098: AR_A_03_Building_02 1
+    100100: AR_A_03_Pit_Type_01_16_Raw
+    100102: AR_A_03_Pit_Type_01_16_Raw 1
+    100104: BezierCurve
+    100106: BezierCurve 1
+    100108: Collider_Racetrack
+    100110: Collider_Wall_Fence_001
+    100112: Collider_Wall_Fence_001 1
+    100114: Guardrail_In
+    100116: Guardrail_In 1
+    100118: Guardrail_Out
+    100120: Guardrail_Out 1
+    100122: //RootNode
+    100124: Section
+    400000: AR_A_01_Advert_Beam
+    400002: AR_A_01_Advert_Beam 1
+    400004: AR_A_01_Advert_Beam_Small
+    400006: AR_A_01_Advert_Beam_Small 1
+    400008: AR_A_01_Advert_Beam_Small_001
+    400010: AR_A_01_Advert_Beam_Small_001 1
+    400012: AR_A_01_Advert_Beam_Small_002
+    400014: AR_A_01_Advert_Beam_Small_002 1
+    400016: AR_A_01_Advert_Beam_Small_003
+    400018: AR_A_01_Advert_Beam_Small_003 1
+    400020: AR_A_01_Advert_Beam_Small_004
+    400022: AR_A_01_Advert_Beam_Small_004 1
+    400024: AR_A_01_Collider_Wall_Advert
+    400026: AR_A_01_Collider_Wall_Advert 1
+    400028: AR_A_01_Collider_Wall_Advert_001
+    400030: AR_A_01_Collider_Wall_Advert_001 1
+    400032: AR_A_01_Cone
+    400034: AR_A_01_Cone 1
+    400036: AR_A_01_GiantTire
+    400038: AR_A_01_GiantTire 1
+    400040: AR_A_01_Misc_Floodlight
+    400042: AR_A_01_Misc_Floodlight 1
+    400044: AR_A_01_Misc_Floodlight_001
+    400046: AR_A_01_Misc_Floodlight_002
+    400048: AR_A_01_Misc_Floodlight_003
+    400050: AR_A_01_Misc_Floodlight_004
+    400052: AR_A_01_Misc_Floodlight_005
+    400054: AR_A_01_Misc_Tower
+    400056: AR_A_01_Panel_Advert_Eif
+    400058: AR_A_01_Panel_Advert_Eif 1
+    400060: AR_A_01_Panel_Advert_Eif_001
+    400062: AR_A_01_Panel_Advert_Eif_001 1
+    400064: AR_A_01_Panel_Advert_Eif_002
+    400066: AR_A_01_Panel_Advert_Eif_002 1
+    400068: AR_A_01_Panel_Advert_Eneos
+    400070: AR_A_01_Panel_Advert_Eneos 1
+    400072: AR_A_01_Panel_Advert_Eneos_001
+    400074: AR_A_01_Panel_Advert_Eneos_001 1
+    400076: AR_A_01_Panel_Advert_Eneos_002
+    400078: AR_A_01_Panel_Advert_Eneos_002 1
+    400080: AR_A_01_Start_Lamps
+    400082: AR_A_01_Start_Lamps 1
+    400084: AR_A_02_TireWall
+    400086: AR_A_02_TireWall 1
+    400088: AR_A_02_TireWall_001
+    400090: AR_A_02_TireWall_001 1
+    400092: AR_A_03_Building
+    400094: AR_A_03_Building 1
+    400096: AR_A_03_Building_02
+    400098: AR_A_03_Building_02 1
+    400100: AR_A_03_Pit_Type_01_16_Raw
+    400102: AR_A_03_Pit_Type_01_16_Raw 1
+    400104: BezierCurve
+    400106: BezierCurve 1
+    400108: Collider_Racetrack
+    400110: Collider_Wall_Fence_001
+    400112: Collider_Wall_Fence_001 1
+    400114: Guardrail_In
+    400116: Guardrail_In 1
+    400118: Guardrail_Out
+    400120: Guardrail_Out 1
+    400122: //RootNode
+    400124: Section
+    2100000: walls
+    2100002: fence_01
+    2100004: ar_racetrack_atlas_02
+    2100006: ar_racetrack_atlas_01
+    2100008: ar_racetrack_atlas_03
+    2100010: ar_asphalt_03
+    2100012: 'Material #30'
+    2300000: AR_A_01_Advert_Beam
+    2300002: AR_A_01_Advert_Beam 1
+    2300004: AR_A_01_Advert_Beam_Small
+    2300006: AR_A_01_Advert_Beam_Small 1
+    2300008: AR_A_01_Advert_Beam_Small_001
+    2300010: AR_A_01_Advert_Beam_Small_001 1
+    2300012: AR_A_01_Advert_Beam_Small_002
+    2300014: AR_A_01_Advert_Beam_Small_002 1
+    2300016: AR_A_01_Advert_Beam_Small_003
+    2300018: AR_A_01_Advert_Beam_Small_003 1
+    2300020: AR_A_01_Advert_Beam_Small_004
+    2300022: AR_A_01_Advert_Beam_Small_004 1
+    2300024: AR_A_01_Collider_Wall_Advert
+    2300026: AR_A_01_Collider_Wall_Advert 1
+    2300028: AR_A_01_Collider_Wall_Advert_001
+    2300030: AR_A_01_Collider_Wall_Advert_001 1
+    2300032: AR_A_01_Cone
+    2300034: AR_A_01_Cone 1
+    2300036: AR_A_01_GiantTire
+    2300038: AR_A_01_GiantTire 1
+    2300040: AR_A_01_Misc_Floodlight
+    2300042: AR_A_01_Misc_Floodlight 1
+    2300044: AR_A_01_Misc_Floodlight_001
+    2300046: AR_A_01_Misc_Floodlight_002
+    2300048: AR_A_01_Misc_Floodlight_003
+    2300050: AR_A_01_Misc_Floodlight_004
+    2300052: AR_A_01_Misc_Floodlight_005
+    2300054: AR_A_01_Misc_Tower
+    2300056: AR_A_01_Panel_Advert_Eif
+    2300058: AR_A_01_Panel_Advert_Eif 1
+    2300060: AR_A_01_Panel_Advert_Eif_001
+    2300062: AR_A_01_Panel_Advert_Eif_001 1
+    2300064: AR_A_01_Panel_Advert_Eif_002
+    2300066: AR_A_01_Panel_Advert_Eif_002 1
+    2300068: AR_A_01_Panel_Advert_Eneos
+    2300070: AR_A_01_Panel_Advert_Eneos 1
+    2300072: AR_A_01_Panel_Advert_Eneos_001
+    2300074: AR_A_01_Panel_Advert_Eneos_001 1
+    2300076: AR_A_01_Panel_Advert_Eneos_002
+    2300078: AR_A_01_Panel_Advert_Eneos_002 1
+    2300080: AR_A_01_Start_Lamps
+    2300082: AR_A_01_Start_Lamps 1
+    2300084: AR_A_02_TireWall
+    2300086: AR_A_02_TireWall 1
+    2300088: AR_A_02_TireWall_001
+    2300090: AR_A_02_TireWall_001 1
+    2300092: AR_A_03_Building
+    2300094: AR_A_03_Building 1
+    2300096: AR_A_03_Building_02
+    2300098: AR_A_03_Building_02 1
+    2300100: AR_A_03_Pit_Type_01_16_Raw
+    2300102: AR_A_03_Pit_Type_01_16_Raw 1
+    2300104: Collider_Racetrack
+    2300106: Collider_Wall_Fence_001
+    2300108: Collider_Wall_Fence_001 1
+    2300110: Guardrail_In
+    2300112: Guardrail_In 1
+    2300114: Guardrail_Out
+    2300116: Guardrail_Out 1
+    3300000: AR_A_01_Advert_Beam
+    3300002: AR_A_01_Advert_Beam 1
+    3300004: AR_A_01_Advert_Beam_Small
+    3300006: AR_A_01_Advert_Beam_Small 1
+    3300008: AR_A_01_Advert_Beam_Small_001
+    3300010: AR_A_01_Advert_Beam_Small_001 1
+    3300012: AR_A_01_Advert_Beam_Small_002
+    3300014: AR_A_01_Advert_Beam_Small_002 1
+    3300016: AR_A_01_Advert_Beam_Small_003
+    3300018: AR_A_01_Advert_Beam_Small_003 1
+    3300020: AR_A_01_Advert_Beam_Small_004
+    3300022: AR_A_01_Advert_Beam_Small_004 1
+    3300024: AR_A_01_Collider_Wall_Advert
+    3300026: AR_A_01_Collider_Wall_Advert 1
+    3300028: AR_A_01_Collider_Wall_Advert_001
+    3300030: AR_A_01_Collider_Wall_Advert_001 1
+    3300032: AR_A_01_Cone
+    3300034: AR_A_01_Cone 1
+    3300036: AR_A_01_GiantTire
+    3300038: AR_A_01_GiantTire 1
+    3300040: AR_A_01_Misc_Floodlight
+    3300042: AR_A_01_Misc_Floodlight 1
+    3300044: AR_A_01_Misc_Floodlight_001
+    3300046: AR_A_01_Misc_Floodlight_002
+    3300048: AR_A_01_Misc_Floodlight_003
+    3300050: AR_A_01_Misc_Floodlight_004
+    3300052: AR_A_01_Misc_Floodlight_005
+    3300054: AR_A_01_Misc_Tower
+    3300056: AR_A_01_Panel_Advert_Eif
+    3300058: AR_A_01_Panel_Advert_Eif 1
+    3300060: AR_A_01_Panel_Advert_Eif_001
+    3300062: AR_A_01_Panel_Advert_Eif_001 1
+    3300064: AR_A_01_Panel_Advert_Eif_002
+    3300066: AR_A_01_Panel_Advert_Eif_002 1
+    3300068: AR_A_01_Panel_Advert_Eneos
+    3300070: AR_A_01_Panel_Advert_Eneos 1
+    3300072: AR_A_01_Panel_Advert_Eneos_001
+    3300074: AR_A_01_Panel_Advert_Eneos_001 1
+    3300076: AR_A_01_Panel_Advert_Eneos_002
+    3300078: AR_A_01_Panel_Advert_Eneos_002 1
+    3300080: AR_A_01_Start_Lamps
+    3300082: AR_A_01_Start_Lamps 1
+    3300084: AR_A_02_TireWall
+    3300086: AR_A_02_TireWall 1
+    3300088: AR_A_02_TireWall_001
+    3300090: AR_A_02_TireWall_001 1
+    3300092: AR_A_03_Building
+    3300094: AR_A_03_Building 1
+    3300096: AR_A_03_Building_02
+    3300098: AR_A_03_Building_02 1
+    3300100: AR_A_03_Pit_Type_01_16_Raw
+    3300102: AR_A_03_Pit_Type_01_16_Raw 1
+    3300104: Collider_Racetrack
+    3300106: Collider_Wall_Fence_001
+    3300108: Collider_Wall_Fence_001 1
+    3300110: Guardrail_In
+    3300112: Guardrail_In 1
+    3300114: Guardrail_Out
+    3300116: Guardrail_Out 1
+    4300000: Collider_Wall_Fence_001
+    4300002: Guardrail_In
+    4300004: Guardrail_Out
+    4300006: AR_A_02_TireWall
+    4300008: AR_A_02_TireWall_001
+    4300010: AR_A_01_Advert_Beam_Small_004
+    4300012: AR_A_01_Advert_Beam_Small_002
+    4300014: AR_A_01_Misc_Floodlight
+    4300016: AR_A_01_Misc_Floodlight_002
+    4300018: AR_A_01_Panel_Advert_Eneos
+    4300020: AR_A_01_Advert_Beam_Small
+    4300022: AR_A_01_Misc_Floodlight_001
+    4300024: AR_A_01_Panel_Advert_Eif_002
+    4300026: AR_A_01_Panel_Advert_Eif_001
+    4300028: AR_A_01_Advert_Beam_Small_003
+    4300030: AR_A_01_Advert_Beam
+    4300032: AR_A_01_Panel_Advert_Eneos_002
+    4300034: AR_A_01_GiantTire
+    4300036: AR_A_01_Cone
+    4300038: AR_A_01_Panel_Advert_Eneos_001
+    4300040: AR_A_01_Panel_Advert_Eif
+    4300042: AR_A_01_Start_Lamps
+    4300044: AR_A_01_Advert_Beam_Small_001
+    4300046: AR_A_01_Misc_Floodlight_005
+    4300048: AR_A_01_Collider_Wall_Advert
+    4300050: AR_A_01_Collider_Wall_Advert_001
+    4300052: AR_A_03_Building
+    4300054: AR_A_03_Building_02
+    4300056: AR_A_03_Pit_Type_01_16_Raw
+    4300058: AR_A_03_Building
+    4300060: AR_A_03_Building_02
+    4300062: AR_A_03_Pit_Type_01_16_Raw
+    4300064: AR_A_02_TireWall
+    4300066: AR_A_02_TireWall_001
+    4300068: AR_A_01_Panel_Advert_Eneos_002
+    4300070: AR_A_01_Cone
+    4300072: AR_A_01_Advert_Beam_Small_004
+    4300074: AR_A_01_Collider_Wall_Advert
+    4300076: AR_A_01_Misc_Tower
+    4300078: AR_A_01_Panel_Advert_Eif
+    4300080: AR_A_01_Misc_Floodlight_003
+    4300082: AR_A_01_Panel_Advert_Eif_001
+    4300084: AR_A_01_Misc_Floodlight
+    4300086: AR_A_01_Advert_Beam_Small_002
+    4300088: AR_A_01_Start_Lamps
+    4300090: AR_A_01_Collider_Wall_Advert_001
+    4300092: AR_A_01_Panel_Advert_Eneos_001
+    4300094: AR_A_01_Advert_Beam_Small
+    4300096: AR_A_01_Panel_Advert_Eif_002
+    4300098: AR_A_01_Misc_Floodlight_004
+    4300100: AR_A_01_Advert_Beam
+    4300102: AR_A_01_Panel_Advert_Eneos
+    4300104: AR_A_01_GiantTire
+    4300106: AR_A_01_Advert_Beam_Small_001
+    4300108: AR_A_01_Advert_Beam_Small_003
+    4300110: Guardrail_Out
+    4300112: Collider_Racetrack
+    4300114: Collider_Wall_Fence_001
+    4300116: Guardrail_In
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
