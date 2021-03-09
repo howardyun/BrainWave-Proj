@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/scenes/chooseCity.unity
+- path: Assets/scenes/RS2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

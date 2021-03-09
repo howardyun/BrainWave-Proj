@@ -31,10 +31,11 @@ public class SetBlock : MonoBehaviour
     void Start()
     {
         //把所有的object都变得不可见
-        //foreach (GameObject a in G_obj)
-        //{
-        //    a.SetActive(false);
-        //}
+        foreach (GameObject a in G_obj)
+        {
+            a.SetActive(false);
+        }
+        
         if (n != 13)
         {
             
