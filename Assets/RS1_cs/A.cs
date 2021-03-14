@@ -9,9 +9,9 @@ public class A : MonoBehaviour
     public Animator _am1;  //player
     void Start()
     {
-        AndroidJavaClass jc = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
-        AndroidJavaObject jo = jc.GetStatic<AndroidJavaObject>("currentActivity");
-        jo.Call("initView");
+        //AndroidJavaClass jc = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
+        //AndroidJavaObject jo = jc.GetStatic<AndroidJavaObject>("currentActivity");
+        //jo.Call("initView");
     }
     
     public void SensorInfo(string msg)
