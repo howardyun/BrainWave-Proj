@@ -1,19 +1,33 @@
 ﻿<Properties StartupConfiguration="{DE40A1FF-A086-58A5-2CEE-2CF2768E89DE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RS1_cs/SetBlock.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Ultimate Game Tools/Fracturing/Scripts/FracturedChunk.cs">
     <Files>
-      <File FileName="Assets/RS1_cs/SetBlock.cs" Line="25" Column="17" />
+      <File FileName="Assets/RS1_cs/SetBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/RS1_cs/A.cs" />
+      <File FileName="Assets/RS1_cs/testInvalid.cs" />
+      <File FileName="Assets/Ultimate Game Tools/Fracturing/Scripts/FracturedChunk.cs" Line="293" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BrainWave-Proj" expanded="True" selected="True" />
+          <Node name="BrainWave-Proj" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RS1_cs" expanded="True">
+                <Node name="SetBlock.cs" selected="True" />
+              </Node>
+              <Node name="Ultimate Game Tools" expanded="True">
+                <Node name="Fracturing" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="016aad72-0d96-42e0-a226-67a2b2944b88" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef165985-060d-452a-a505-1a863249bdab" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
