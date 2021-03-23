@@ -35,7 +35,6 @@ ScriptsOnlyBuild:
     - guanka3
     - on_off_light
     - restart
-    - selfrotate
     - test
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -132,8 +131,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12236}
     - Class: 114
-      Script: {instanceID: 12246}
-    - Class: 114
       Script: {instanceID: 12478}
     - Class: 114
       Script: {instanceID: 12572}
@@ -160,11 +157,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13518}
     - Class: 114
-      Script: {instanceID: 20268}
+      Script: {instanceID: 16062}
     - Class: 114
-      Script: {instanceID: 20270}
+      Script: {instanceID: 16066}
     - Class: 114
-      Script: {instanceID: 20272}
+      Script: {instanceID: 16070}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -261,11 +258,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13518}
     - Class: 114
-      Script: {instanceID: 20268}
+      Script: {instanceID: 16062}
     - Class: 114
-      Script: {instanceID: 20270}
+      Script: {instanceID: 16066}
     - Class: 114
-      Script: {instanceID: 20272}
+      Script: {instanceID: 16070}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -337,6 +334,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12742}
     - Class: 114
       Script: {instanceID: 12754}
+    - Class: 114
+      Script: {instanceID: 13152}
     - Class: 114
       Script: {instanceID: 13430}
     - Class: 114
@@ -415,6 +414,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12754}
     - Class: 114
+      Script: {instanceID: 13152}
+    - Class: 114
       Script: {instanceID: 13156}
     - Class: 114
       Script: {instanceID: 13430}
@@ -423,11 +424,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13518}
     - Class: 114
-      Script: {instanceID: 20268}
+      Script: {instanceID: 16062}
     - Class: 114
-      Script: {instanceID: 20270}
+      Script: {instanceID: 16066}
     - Class: 114
-      Script: {instanceID: 20272}
+      Script: {instanceID: 16070}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -504,6 +505,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12754}
     - Class: 114
+      Script: {instanceID: 13152}
+    - Class: 114
       Script: {instanceID: 13192}
     - Class: 114
       Script: {instanceID: 13430}
@@ -514,13 +517,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13518}
     - Class: 114
-      Script: {instanceID: 20268}
+      Script: {instanceID: 16062}
     - Class: 114
-      Script: {instanceID: 20270}
+      Script: {instanceID: 16066}
     - Class: 114
-      Script: {instanceID: 20272}
-    - Class: 114
-      Script: {instanceID: 31420}
+      Script: {instanceID: 16070}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -664,13 +665,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13468}
     - Class: 114
-      Script: {instanceID: 21288}
+      Script: {instanceID: 26742}
     - Class: 114
-      Script: {instanceID: 21290}
+      Script: {instanceID: 26744}
     - Class: 114
-      Script: {instanceID: 21292}
+      Script: {instanceID: 26746}
     - Class: 114
-      Script: {instanceID: 21294}
+      Script: {instanceID: 26748}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1666,6 +1667,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: FracturedChunk
+  - hash:
+      serializedVersion: 2
+      Hash: f22445921b178b7d39c02e2e0e2941ca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: testInvalid
   - hash:
       serializedVersion: 2
       Hash: c74a7f605f4e3aaee4fe7787c44247cd
