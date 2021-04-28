@@ -1,16 +1,23 @@
 ﻿<Properties StartupConfiguration="{DE40A1FF-A086-58A5-2CEE-2CF2768E89DE}|">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JudgeFinsh.cs">
     <Files>
-      <File FileName="Assets/RS1_cs/SetBlock.cs" Line="40" Column="1" />
-      <File FileName="Assets/RS1_cs/A.cs" Line="12" Column="17" />
-      <File FileName="Assets/RS1_cs/testInvalid.cs" />
-      <File FileName="Assets/Ultimate Game Tools/Fracturing/Scripts/FracturedChunk.cs" Line="293" Column="1" />
+      <File FileName="Assets/RS1_cs/A.cs" Line="1" Column="1" />
+      <File FileName="Assets/RS1_cs/SetBlock.cs" />
+      <File FileName="Assets/choosecity_cs/guanka/guanka1.cs" />
+      <File FileName="Assets/choosecity_cs/guanka/guanka3.cs" />
+      <File FileName="Assets/Ultimate Game Tools/Fracturing/Scripts/FracturedObject.cs" />
+      <File FileName="Assets/Ultimate Game Tools/Fracturing/Scripts/FracturedChunk.cs" />
+      <File FileName="Assets/RS1_cs/restart.cs" />
+      <File FileName="Assets/JudgeFinsh.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BrainWave-Proj" expanded="True">
             <Node name="Assets" expanded="True">
+              <Node name="choosecity_cs" expanded="True">
+                <Node name="guanka" expanded="True" />
+              </Node>
               <Node name="RS1_cs" expanded="True">
                 <Node name="A.cs" selected="True" />
               </Node>
@@ -27,7 +34,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef165985-060d-452a-a505-1a863249bdab" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dd981ff7-de76-4d4d-88a7-b5f570e00856" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

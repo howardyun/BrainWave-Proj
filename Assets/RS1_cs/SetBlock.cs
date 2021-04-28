@@ -9,7 +9,7 @@ public class SetBlock : MonoBehaviour
     static public int n;
     static public string city;
     public GameObject []G_obj;
-
+   
 
 
     public int getNum1(int[] arrNum, int tmp, int minValue, int maxValue, Random ra)
@@ -35,8 +35,9 @@ public class SetBlock : MonoBehaviour
         {
             a.SetActive(false);
         }
-        n = 0;
-        
+
+        n = 13;
+
         if (n != 13)
         {
             

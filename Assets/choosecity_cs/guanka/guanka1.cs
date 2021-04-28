@@ -31,10 +31,6 @@ public class guanka1 : MonoBehaviour
             Debug.Log("enterSH");
             SceneManager.LoadScene("RS2");
 
-
-
-
-
         }
         else if (tmp_s.Equals("cd"))
         {

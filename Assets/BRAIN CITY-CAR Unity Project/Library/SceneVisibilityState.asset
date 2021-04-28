@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1154873562 &1
+SceneVisibilityState:
+  m_ObjectHideFlags: 0
+  m_SceneVisibilityData:
+    m_SceneData:
+    - first:
+        guid: 5affd932bdaa36e408ad48b550217156
+        handle: 0
+      second:
+        m_SceneGUID: 5affd932bdaa36e408ad48b550217156
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 92786e23da2af4a4f8803aaf44c47121
+        handle: 0
+      second:
+        m_SceneGUID: 92786e23da2af4a4f8803aaf44c47121
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent:
+        - targetObject: 777161546
+          targetPrefab: 695900665
+    - first:
+        guid: 21ba8959b0b9c5e41889da424bb00b0b
+        handle: 0
+      second:
+        m_SceneGUID: 21ba8959b0b9c5e41889da424bb00b0b
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 12c6f44bbd4eef541a925ea029b57f07
+        handle: 0
+      second:
+        m_SceneGUID: 12c6f44bbd4eef541a925ea029b57f07
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 78703dbdf21514b4c96eb0f4555621be
+        handle: 0
+      second:
+        m_SceneGUID: 78703dbdf21514b4c96eb0f4555621be
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 11c9053ef7333134181fcd7f64fe6d60
+        handle: 0
+      second:
+        m_SceneGUID: 11c9053ef7333134181fcd7f64fe6d60
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+  m_SceneVisibilityDataIsolated:
+    m_SceneData:
+    - first:
+        guid: 92786e23da2af4a4f8803aaf44c47121
+        handle: 0
+      second:
+        m_SceneGUID: 92786e23da2af4a4f8803aaf44c47121
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+  m_ScenePickingData:
+    m_SceneData:
+    - first:
+        guid: 5affd932bdaa36e408ad48b550217156
+        handle: 0
+      second:
+        m_SceneGUID: 5affd932bdaa36e408ad48b550217156
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 92786e23da2af4a4f8803aaf44c47121
+        handle: 0
+      second:
+        m_SceneGUID: 92786e23da2af4a4f8803aaf44c47121
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 21ba8959b0b9c5e41889da424bb00b0b
+        handle: 0
+      second:
+        m_SceneGUID: 21ba8959b0b9c5e41889da424bb00b0b
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 12c6f44bbd4eef541a925ea029b57f07
+        handle: 0
+      second:
+        m_SceneGUID: 12c6f44bbd4eef541a925ea029b57f07
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 78703dbdf21514b4c96eb0f4555621be
+        handle: 0
+      second:
+        m_SceneGUID: 78703dbdf21514b4c96eb0f4555621be
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []
+    - first:
+        guid: 11c9053ef7333134181fcd7f64fe6d60
+        handle: 0
+      second:
+        m_SceneGUID: 11c9053ef7333134181fcd7f64fe6d60
+        m_GameObjectsPersistent: []
+        m_HierarchiesPersistent: []

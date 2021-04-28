@@ -7,16 +7,28 @@ public class A : MonoBehaviour
     
     public TextMesh brainPower;
     public Animator _am1;  //player
+    public AndroidJavaObject jo1;
+    int attention;
+
     void Start()
     {
         // AndroidJavaClass jc = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
         //AndroidJavaObject jo = jc.GetStatic<AndroidJavaObject>("currentActivity");
         //jo.Call("initView");
-        AndroidJavaObject jo = new AndroidJavaObject("com.unity3d.player.Mytestclass");
-       int i= jo.Call<int>("getT");
-        Debug.Log("ZZZZZZ"+i);
+        //AndroidJavaObject jo = new AndroidJavaObject("com.unity3d.player.Mytestclass");
+        //jo1 = new AndroidJavaObject("com.unity3d.player.getBrData");
+        AndroidJavaObject jo2 = new AndroidJavaObject("com.unity3d.player.UnitytoAndroid");
+        jo2.Call<int>("Start"); 
+
+        
     }
-    
+    private void Update()
+    {
+        //getAttentionFormAndriod();
+
+
+    }
+
     public void SensorInfo(string msg)
     {
         Debug.Log("SensorInfo called");
@@ -102,5 +114,37 @@ public class A : MonoBehaviour
 
 
     }
+
+
+    public void getMessageFromAndriod(string s) {
+
+        Debug.Log("Attention"+s);          
+    }
+
+    //Called by android program 
+    public void bleConnectSuccess(string s)
+    {
+
+        //Show Success Connect icon
+
+        Debug.Log("Bluetooth device connect success");
+
+
+    }
+    //Called by android program 
+
+    public void bleConnectFail(string s)
+    {
+        Debug.Log("Bluetooth device connect success");
+
+        //Show Fail Connect icon
+
+    }
+    public void getAttentionFormAndriod() {
+        attention = jo1.Call<int>("getAttention");
+        Debug.Log("getAttentionFormAndriod:"+attention);
+    }
+
+
 
 }

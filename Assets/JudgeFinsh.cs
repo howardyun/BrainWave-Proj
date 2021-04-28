@@ -34,19 +34,27 @@ public class JudgeFinsh : MonoBehaviour
 
             if (info.normalizedTime >= 1.0f)
             {
+                //Computer win the game 
+              
                 j = 0;
                 rezult.text = "You Lose";
                 Debug.Log("You lose");
                 Delay_5s_rs1.j = 1;
-
                 c1.enabled = true;
+                AndroidJavaObject jo2 = new AndroidJavaObject("com.unity3d.player.UnitytoAndroid");
+                jo2.Call<int>("Finish");
+
             }
-            if (info1.normalizedTime >= 1.0f)
+            else if (info1.normalizedTime >= 1.0f)
             {
+
+                //Player win the game
                 j = 0;
                 c1.enabled = true;
                 Delay_5s_rs1.j = 1;
                 rezult.text = "You Win";
+                AndroidJavaObject jo2 = new AndroidJavaObject("com.unity3d.player.UnitytoAndroid");
+                jo2.Call<int>("Finish");
                 Debug.Log("You win");
             }
 
